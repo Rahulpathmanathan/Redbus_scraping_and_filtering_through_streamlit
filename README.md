@@ -39,14 +39,14 @@ Accumulating a substantial amount of data, which will be valuable for future cri
 
 Prerequesting Libraries
 
-import streamlit as st
-import mysql.connector
-import pandas as pd
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver import ActionChains
+import streamlit as st,
+import mysql.connector,
+import pandas as pd,
+from selenium import webdriver,
+from selenium.webdriver.common.by import By,
+from selenium.webdriver.common.keys import Keys,
+from selenium.webdriver.support.wait import WebDriverWait,
+from selenium.webdriver.support import expected_conditions as EC,
+from selenium.webdriver import ActionChains,
 
 
